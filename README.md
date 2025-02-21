@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
 
 To run the application, use the following command:
 ```bash
-streamlit run app.py
+streamlit run sms_spam_classifier_demo.py
 ```
 
 This will start a local web server and open the application in your default web browser. You can then enter an SMS message in the text area and click the "Predict" button to see if the message is classified as spam or not spam.
